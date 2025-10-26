@@ -24,3 +24,7 @@ def main():
     #This shows that the original list is now empty
     print("\nAfter splitting, the original list:")
     seo.display()
+    
+if __name__ == "__main__":
+    main()
+
